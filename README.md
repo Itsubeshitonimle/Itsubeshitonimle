@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="C:\Users\Itsu I. Beshitonimle\Desktop\Black Minimalist Linkedin Banner (1).png" width="100%">
+  <img src="Black Minimalist Linkedin Banner (1).png" width="100%">
 </p>
-## Hi there, I'm Isaiah Beshitonimle Itsu 👋
+
+Hi there, I'm Isaiah Beshitonimle Itsu 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
